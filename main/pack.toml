@@ -1,0 +1,13 @@
+name = "gregtech-colorize"
+author = "Sponeru"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7820d014001db3841a45dc65048638ec0f4418b42f397a068eeafadaeb32a021"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

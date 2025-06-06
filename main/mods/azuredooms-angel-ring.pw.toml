@@ -1,0 +1,13 @@
+name = "AzureDooms Angel Ring"
+filename = "doomangelring-neo-1.20.1-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "620c2159c010fb387350fb2734e44a7125dcec79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4965773
+project-id = 402762
